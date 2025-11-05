@@ -1,9 +1,11 @@
+<!DOCTYPE html>
 <html>
-
+<head>
+  <meta charset="UTF-8">
+  <title>Soupytime</title>
+</head>
 <body>
-  <h1>soupy time</h1>
-  <p>its soupin time</p>
-  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
+  <h1>Welcome to Soupytime!</h1>
+  <p>This is my first website hosted on GitHub Pages.</p>
 </body>
-
 </html>
